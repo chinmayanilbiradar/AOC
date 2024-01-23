@@ -1,2 +1,2 @@
-# AOC
-A folder consisting of AOC solutions
+# Advent Of Code
+A folder consisting of Advent Of Code solutions
